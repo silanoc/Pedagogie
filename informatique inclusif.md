@@ -1,8 +1,12 @@
 # Quelques mots en inclusif liés à l'informatique
 
 ## Source
-Selon la grammeire neutre d'Alpheratz
+Selon la grammaire neutre developpée par Alpheratz :
 https://www.alpheratz.fr/linguistique/genre-neutre/
+
+Voir aussi :
+- https://github.com/Guiraud/incluzor-e
+- https://incluzor.org/
 
 # Métiers
 * informaticien - informaticienne - informatician
